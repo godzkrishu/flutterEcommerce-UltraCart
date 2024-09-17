@@ -31,7 +31,6 @@ A comprehensive **E-Commerce Application** built with Flutter that includes user
 - **Authentication:** Mongodb, JWT Authentication
 - **State Management:** Provider
 - **Deployment:** onrender and Mongodb
-- 
 ## Installation & Setup
 ### Prerequisites
 - Flutter SDK
